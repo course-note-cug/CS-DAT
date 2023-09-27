@@ -4,3 +4,5 @@ Grade: Freshman Semester II
 
 Prerequisite: 
 - C program design
+
+Status: Ongoing
